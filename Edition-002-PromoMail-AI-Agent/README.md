@@ -1,4 +1,4 @@
-# Edition #002
+# Edition #003
 
 ## Stop Writing Promotional Emails. Build an AI Agent That Does It For You.
 
